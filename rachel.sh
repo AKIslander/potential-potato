@@ -1,5 +1,6 @@
 #another comment
 # calculate stats
+# hello my potato friend
 for datafile in "$@"
 do
 	echo ${datafile}
